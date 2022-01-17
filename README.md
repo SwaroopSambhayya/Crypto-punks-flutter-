@@ -1,6 +1,8 @@
-# crypto_punk_clone
+# Crypto Punks Clone
 
-A new Flutter project.
+A responsive web/mobile crypto punk clone built in Flutter.
+
+![crypto punk](https://github.com/SwaroopSambhayya/Crypto-punks-flutter-/blob/master/simulator_screenshot_FFFAE201-505E-4E0B-87E6-8D17367F10D6.png)
 
 ## Getting Started
 
